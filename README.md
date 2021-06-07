@@ -28,7 +28,8 @@ To solidify the proposal, one of the key stakeholders would like to see a bike t
 
  4. Trips by Gender (Weekday by hour): - The image below shows hetmap created showing the number of bike trips by gender for each hour of each day of the week. The heatmap can be filtered by gender.
 
-<img width="764" alt="Trips by weekday by hour" src="https://user-images.githubusercontent.com/79670933/120952484-242d7200-c719-11eb-941f-a8c55ee88a6f.png">
+<img width="761" alt="Trips by Gender (Weekday by Hour)" src="https://user-images.githubusercontent.com/79670933/120953634-5fc93b80-c71b-11eb-8113-a65be73e0e3a.png">
+
 
 5. Usertrips by Gender by Weekday: - The image below shows the heatmap created showing the number of bike trips for each type of user and gender for each day of the week, and you can only filter by user and gender.
 
