@@ -11,7 +11,7 @@ To solidify the proposal, one of the key stakeholders would like to see a bike t
 
 
 •	Results:
- From the Tableau Visuals created (https://public.tableau.com/authoring/Des-Moines-NYC-CitiBike-Analysis/FINALSTORYREPORT#1), the following visuals can be seen:
+ From the Tableau Visuals created (Link to Dashboard - https://public.tableau.com/authoring/Des-Moines-NYC-CitiBike-Analysis/FINALSTORYREPORT#1), the following visuals can be seen:
  
 1. Checkout Time for users: - The image below shows a line graph displaying the number of bikes checked out by duration for all users. The graph can be filtered by the hour
  
