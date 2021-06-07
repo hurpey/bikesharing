@@ -33,7 +33,8 @@ To solidify the proposal, one of the key stakeholders would like to see a bike t
 
 5. Usertrips by Gender by Weekday: - The image below shows the heatmap created showing the number of bike trips for each type of user and gender for each day of the week, and you can only filter by user and gender.
 
-<img width="882" alt="Gender by weekday" src="https://user-images.githubusercontent.com/79670933/120952592-60f96900-c719-11eb-9d30-a68af1150225.png">
+<img width="765" alt="Gender by weekday" src="https://user-images.githubusercontent.com/79670933/120953706-943cf780-c71b-11eb-8019-4fc1a66078c7.png">
+
 
 •	Summary
 
